@@ -1,1 +1,2 @@
 # odin-recipes
+Odin Recipes is the first project in The odin projects foundations path.It tests our understanding of fundamental HTML code such as constructing pages,using elements,linking pages/urls/images and much more. 
